@@ -39,3 +39,6 @@ Important functions:
    name/player name.
   -init_db(), insert_stuff(), and update_foreign_keys() deal with setting up
    the database.
+
+Important File:
+  print_table.py allows me to print the data in an organized way. 
